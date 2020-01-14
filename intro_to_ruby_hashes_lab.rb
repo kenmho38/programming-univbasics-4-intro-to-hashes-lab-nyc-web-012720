@@ -7,7 +7,7 @@ def my_hash
   actor = {name: "Dwayne The Rock Johnson"}
 end
 
-def monopoly
+def pioneer
   monopoly = {
     railroads: {}
   }
