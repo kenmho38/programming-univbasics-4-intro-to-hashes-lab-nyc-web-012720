@@ -1,4 +1,4 @@
-def my_hash
+def new_hash
   {}
 end
 
